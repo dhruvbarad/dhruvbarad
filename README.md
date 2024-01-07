@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Dhruv
 - 🌱 I’m currently majoring in Computer Science
-- 👀 I'm focusing on Full Stack Web Development
+- 👀 I'm focusing on Web Development
 - 📫 How to reach me: dbarad302@gmail.com | 612-559-1055
